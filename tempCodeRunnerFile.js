@@ -1,0 +1,1 @@
+let randomIndex = Math.floor(Math.random() * characters.length);
